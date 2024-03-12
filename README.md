@@ -1,4 +1,4 @@
-# Tela de Login em React
+# Tela de Login
 
 Este é um projeto de tela de login simples desenvolvido com React. Ele fornece uma interface de usuário para os usuários inserirem suas credenciais e fazerem login em um sistema.
 

@@ -10,7 +10,7 @@ Este é um projeto de tela de login simples desenvolvido com React. Ele fornece 
 
 ## Como Usar
 
-1. Clone este repositório em sua máquina local: https://github.com/vitorpaiv4/tela-login-react
+1. Clone este repositório em sua máquina local: https://github.com/vitorpaiv4/tela-login
    
 2. Navegue até o diretório do projeto: cd tela-de-login-react
 

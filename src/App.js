@@ -1,20 +1,15 @@
 import { useState } from "react";
-
 import "./styles.css";
 
 function App() {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
-
   return (
     <div className="container">
       <div className="container-login">
         <div className="wrap-login">
           <form className="login-form">
             <span className="login-form-title"> Bem vindo </span>
-
-            
-
             <div className="wrap-input">
               <input
                 className={email !== "" ? "has-val input" : "input"}
@@ -24,7 +19,6 @@ function App() {
               />
               <span className="focus-input" data-placeholder="Email"></span>
             </div>
-
             <div className="wrap-input">
               <input
                 className={password !== "" ? "has-val input" : "input"}
@@ -51,5 +45,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
